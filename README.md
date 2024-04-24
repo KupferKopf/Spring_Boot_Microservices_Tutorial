@@ -4,11 +4,13 @@ YT Link: https://www.youtube.com/watch?v=mPPhcU7oWDU&t=6s
 
 
 
-# Microservices Info
+# Microservices Info 
 
 YT Links:
 https://www.youtube.com/watch?v=lTAcCNbJ7KE
+
 https://www.youtube.com/watch?v=lL_j7ilk7rc
+
 https://www.youtube.com/watch?v=rv4LlmLmVWk
 
 ## 1. Vid
